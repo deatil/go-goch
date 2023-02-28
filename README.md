@@ -40,6 +40,7 @@ func main() {
 ### 可用方法
 
 *  可用方法包括直接使用和传递数据后数据转换
+*  可用方法列表：
 `ToBool(i any) bool`, 
 `ToTime(i any) time.Time`, 
 `ToTimeInDefaultLocation(i any, location *time.Location) time.Time`, 
@@ -72,7 +73,7 @@ func main() {
 
 ### 开源协议
 
-*  `go-goch` 文件管理器 遵循 `Apache2` 开源协议发布，在保留本软件版权的情况下提供个人及商业免费使用。
+*  `go-goch` 遵循 `Apache2` 开源协议发布，在保留本软件版权的情况下提供个人及商业免费使用。
 
 
 ### 版权
